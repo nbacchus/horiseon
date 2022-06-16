@@ -89,6 +89,20 @@ p {
     font-size: 36px;
 }
 
+/*sections pictures*/
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*sidebar*/
+
 .aside {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +114,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits {
+.benefit {
     margin-bottom: 32px;
     color:#ffffff
 }
@@ -114,18 +128,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/*sections pictures*/
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /*footer*/
